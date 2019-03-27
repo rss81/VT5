@@ -40,10 +40,9 @@
         <version>2.0.7</version>
         <configuration>
           <appName>vt5-1</appName> 
-          <processTypes>
-            <!--   <web>java $JAVA_OPTS -cp target/classes:target/dependency/* VT5</web> -->
-            <web>java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war </web>
-          </processTypes>         
+          <!--<processTypes>
+            <web>java $JAVA_OPTS -cp target/classes:target/dependency/* VT5</web>             
+          </processTypes> -->        
         </configuration>  
       </plugin>      
     </plugins>
