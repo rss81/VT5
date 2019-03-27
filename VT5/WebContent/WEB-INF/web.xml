@@ -17,6 +17,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>VT5</servlet-name>
-    <url-pattern>/VT5/</url-pattern>
+    <url-pattern>/VT5</url-pattern>
   </servlet-mapping>
 </web-app>
