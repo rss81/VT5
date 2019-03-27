@@ -22,7 +22,7 @@
 		   </div>
 		   
 		   <div style='width:400px;margin:0 auto;margin-top:5%;'>
-		      <form style='text-align:center;' action='/VT5/VT5' method = 'get' >
+		      <form style='text-align:center;' action='/VT5' method = 'get' >
 			      <input style='display:inline-block;' type='radio' name='direction' value= "CAT"  > Cat 
 			      <input style='display:inline-block;' type='radio' name='direction' value= "EMU" > Emu<br>
 			      <input style='margin-top:5%;' type='submit' value='Select'>
